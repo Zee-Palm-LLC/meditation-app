@@ -1,16 +1,10 @@
-# meditation_app
+# Zee Palm UI Code
 
-A new Flutter project.
+Meditation App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes Meditation App UI with multiple screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/128903428/235131527-690cfb7d-5ad6-4190-b34e-4db4eea3bacb.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/235131620-0aa5e8d6-0328-415f-8eb9-1bb3d263e83b.png" width="200" height="400" />
